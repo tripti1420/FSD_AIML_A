@@ -1,1 +1,3 @@
-console.log("Hii");
+const {write,read} = require("./fileOperation");
+write();
+read();
